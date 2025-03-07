@@ -16,7 +16,7 @@ cd StockLogin
 #Run the project
 Open index.html in any browser
 
-## 📸 Preview  
+## 📸 Preview  ("The screenshot below shows a snippet of the code. You can check out the full source in the repository.")
 ![Stock Login Page](loginpage_ss.png)
 
 ##📌 Tech Stack
